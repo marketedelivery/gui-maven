@@ -2,5 +2,4 @@
 /target/
 */target/*
 .classpath
-.settings/
 local.properties
